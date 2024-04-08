@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Yoohoo-cf/Yoohoo-cf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi, I am Rui. You might recognize me as Github's Yoohoo-cf.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank |   Languages   |
+|-----:|---------------|
+|     1|   Python      |
+|     2|   Javascript  |
+|     3|   HTML5       |
+|     4|   CSS3        |
+|     5|   SQL         |
+|     6|   React       |
+|     7|   Nodejs      |
+
